@@ -1,0 +1,5 @@
+origin	bead	fragment	organic	average
+model_1_static	0.979	0.901	0.911	0.93
+model_1_motion	0.895	0.911	0.706	0.837
+model_2_static	0.997	0.998	1	0.998
+model_2_motion	NA	NA	NA	0.91
